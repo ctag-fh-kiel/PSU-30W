@@ -55,6 +55,7 @@
     (pad_size 1.524 1.524)
     (pad_drill 0.762)
     (pad_to_mask_clearance 0)
+    (pad_to_paste_clearance -0.0635)
     (aux_axis_origin 51 130)
     (grid_origin 51 130)
     (visible_elements 7FFFFFFF)
