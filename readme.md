@@ -4,4 +4,4 @@
 - Can be used fully isolated
 
 # Include 3D PLA printed housing
-- Use Eurorack_Case_3D_Print_PLA_gcode.zip directly in your 3D printer (attention, veeeery long print duration, tested on Prusa i3
+- Use Eurorack_Case_3D_Print_PLA_gcode.zip directly in your 3D printer (attention, veeeery long print duration), tested on Prusa i3
