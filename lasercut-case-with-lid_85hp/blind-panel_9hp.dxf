@@ -1,0 +1,236 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$MEASUREMENT
+  70
+  1
+  9
+$INSUNITS
+  70
+  4
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LTYPE
+ 70
+     1
+  0
+LTYPE
+  2
+CONTINUOUS
+ 70
+    64
+  3
+Ausgezogene Linie
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+ 70
+     3
+  0
+LAYER
+  2
+Kontur
+ 70
+    64
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+Gravur
+ 70
+    64
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+Bezugspunkte
+ 70
+    64
+ 62
+     1
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+ 70
+     1
+  0
+STYLE
+  2
+TXT
+ 70
+    64
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+3.500000
+  3
+TXT
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LINE
+  8
+Kontur
+ 62
+   7
+ 39
+0.100
+  6
+CONTINUOUS
+ 10
+45.38000
+ 20
+128.40000
+ 30
+ 0
+ 11
+45.38000
+ 21
+0.00000
+  0
+LINE
+  8
+Kontur
+ 62
+   7
+ 39
+0.100
+  6
+CONTINUOUS
+ 10
+45.38000
+ 20
+0.00000
+ 30
+ 0
+ 11
+0.00000
+ 21
+0.00000
+  0
+LINE
+  8
+Kontur
+ 62
+   7
+ 39
+0.100
+  6
+CONTINUOUS
+ 10
+0.00000
+ 20
+0.00000
+ 30
+ 0
+ 11
+0.00000
+ 21
+128.40000
+  0
+LINE
+  8
+Kontur
+ 62
+   7
+ 39
+0.100
+  6
+CONTINUOUS
+ 10
+0.00000
+ 20
+128.40000
+ 30
+ 0
+ 11
+45.38000
+ 21
+128.40000
+  0
+CIRCLE
+  8
+Kontur
+ 62
+   7
+ 39
+0.100
+  6
+CONTINUOUS
+ 10
+7.45000
+ 20
+125.40000
+ 30
+ 0
+ 40
+1.55000
+  0
+CIRCLE
+  8
+Kontur
+ 62
+   7
+ 39
+0.100
+  6
+CONTINUOUS
+ 10
+7.45000
+ 20
+3.00000
+ 30
+ 0
+ 40
+1.55000
+  0
+ENDSEC
+  0
+EOF
